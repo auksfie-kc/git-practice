@@ -7,6 +7,6 @@ switch ($people) {
         echo "三郎です";
         break;
     case "Taro":
-        echo "太郎です";
+        echo "テストテスト太郎です";
         
 }
